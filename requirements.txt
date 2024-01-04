@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchainhub
+openai
+chromadb
+bs4
