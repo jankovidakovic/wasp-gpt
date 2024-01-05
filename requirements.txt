@@ -4,3 +4,5 @@ langchainhub
 openai
 chromadb
 bs4
+unstructured[md]
+tiktoken
